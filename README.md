@@ -12,8 +12,7 @@ git clone https://github.com/isaac-rom/GuiaLabDPS/
 ```
 3. Ingresa al directorio del proyecto usando el comando:
 ```
-cd GuiLabDPS
-cd guia08\Procedimiento\navegacion
+cd navegacion
 ```
 
 ## Instalar dependencias
